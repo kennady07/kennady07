@@ -16,7 +16,7 @@ Student<br><br>B.Tech Information Technology<br><br>Email: kennady27032003@gmail
 ![](https://github-profile-trophy.vercel.app/?username=kennady07&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kennady07&limit=5&theme=buddhism&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=kennady07&limit=5&theme=onestar&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kennady07&icon=1&color=1)](https://visitcount.itsvg.in)
