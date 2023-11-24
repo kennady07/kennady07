@@ -1,3 +1,6 @@
+#  Hi,I'm Kennady
+Hi there! 👋 I'm Kennady,currently pursuing a B.Tech in Information Technology. I thrive on the excitement of learning and exploring new technologies, always seeking to broaden my horizons in the ever-evolving world of IT. Whether it's diving into coding challenges, experimenting with innovative solutions, or staying up-to-date with the latest industry trends, I'm on a continuous journey of growth and discovery.
+
 # 💫 About Me:
 Student<br><br>B.Tech Information Technology<br><br>Email: kennady27032003@gmail.com<br>
 
